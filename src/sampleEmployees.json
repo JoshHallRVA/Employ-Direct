@@ -1,0 +1,75 @@
+[
+    {
+        "id":1,
+        "firstName": "sucreatia",
+        "lastName": "Otto",
+        "department": "Marketing",
+        "email": "OttoBot@gmail.com"
+    },
+    {
+        "id":2,
+        "firstName": "Blork",
+        "lastName": "Thornton",
+        "department": "Sales",
+        "email": "Prickly@hotmail.com"
+    },
+    {
+        "id":3,
+        "firstName": "man",
+        "lastName": "Bird",
+        "department": "Engineering",
+        "email": "33@gmail.com"
+    },
+
+    {
+        "id":4,
+        "firstName": "dip",
+        "lastName": "James",
+        "department": "Marketing",
+        "email": "K@gmail.com"
+    },
+
+    {
+        "id":5,
+        "firstName": "Miro",
+        "lastName": "Sakurai",
+        "department": "Engineering",
+        "email": "Kio.1@gmail.com"
+    },
+
+    {
+        "id":6,
+        "firstName": "Gav",
+        "lastName": "Iscon",
+        "department": "Sales",
+        "email": "WhGav@gmail.com"
+    },
+    {
+        "id":7,
+        "firstName": "No",
+        "lastName": "Politan",
+        "department": "Construction",
+        "email": "IScm@gmail.com"
+    },
+    {
+        "id":8,
+        "firstName": "Bob",
+        "lastName": "TheBuilder",
+        "department": "Construction",
+        "email": "canwexit@Yahoo.com"
+    },
+    {
+        "id":9,
+        "firstName": "Fnk",
+        "lastName": "West",
+        "department": "Marketing",
+        "email": "FranstJoualism@gmail.com"
+    },
+    {
+        "id":10,
+        "firstName": "Pt",
+        "lastName": "Common",
+        "department": "Construction",
+        "email": "CommlthTank@gmail.com"
+    }
+]
